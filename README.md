@@ -34,7 +34,7 @@
 
 ## 📖 Descripción
 
-**FacturaSimple** es una simulación en consola que permite generar facturas a partir de clientes, artículos, Login. El proyecto pone en práctica los principios fundamentales de la **Programación Orientada a Objetos (POO)** utilizando condicionales para verificar funcionalidades, tales como encapsulamiento, composición y abstracción.
+**Factura Condicionales** es una simulación en consola que permite generar facturas a partir de clientes, artículos, Login. El proyecto pone en práctica los principios fundamentales de la **Programación Orientada a Objetos (POO)** utilizando condicionales para verificar funcionalidades, tales como encapsulamiento, composición y abstracción.
 
 ## ✨ Características
 
